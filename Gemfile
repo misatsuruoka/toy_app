@@ -32,7 +32,6 @@ group :development, :test do
   gem 'sqlite3', '1.3.13'
   gem 'byebug', '9.0.6', platforms: :mri
   # Adds support for Capybara system testing and selenium driver
-  
 end
 
 group :development do
